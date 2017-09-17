@@ -1,5 +1,4 @@
  <?php
-
 function cleaner($str) {
 
     $str = trim($str);
@@ -38,8 +37,7 @@ if ($thecmd == 'ثبت') {
     $conn = null;
 }
 ?> 
- 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
     <head>
         <meta charset="UTF-8">
@@ -173,8 +171,6 @@ if ($thecmd == 'ثبت') {
                 </div>
             </div>
         </div>
-
-
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
