@@ -10,10 +10,9 @@ function cleaner($str) {
     //if ($str==='') return null;
     return $str;
 }
-
 $thecmd = '';
 $thecmd = $_POST['thecmd'];
-if ($thecmd == 'ثبت') {
+if ($thecmd == 'ثبت') { 
     $servername = "localhost";
     $username = "khane_teekanne";
     $password = "@pass4teekanne.IR";
