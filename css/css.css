@@ -1,0 +1,66 @@
+﻿.height-1{
+    height:250px;
+    text-align:center
+}
+
+.height-2{
+    height:315px;
+    text-align:center
+}
+
+.form{
+    direction:rtl;
+    color:white;
+    text-align:center;
+}
+
+.red-back{
+    background-color:#A6192E;
+   height:200px
+}
+
+.h4{
+padding:10px
+}
+
+.form-padd{
+    padding:10px
+}
+
+.btnn{
+    display:block;
+    width:90px;
+    font-weight: bolder;
+}
+
+.footer{
+    height: 50px;
+    text-align:center;
+    padding:18px;
+    font-size:14px;
+    background-color: #A6192E;
+    color:white;
+}
+
+.link{
+    color:white;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: wheat;
+    text-decoration: none;
+}
+
+.font{
+    font-size:13px;
+    font-weight: bolder;
+}
+
+body{
+     font-family: 'IRANSans' !important;
+}
+
+.img-padding{
+    padding: 20px;
+}

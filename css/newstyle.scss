@@ -1,0 +1,56 @@
+﻿.height-1{
+    height:200px;
+    @extend .align
+}
+.align{
+    text-align:center;
+}
+.height-2{
+    height:250px;
+    @extend .align
+}
+
+.form{
+    direction:rtl;
+    color:white;
+        @extend .align
+    font-family:'B Yekan'
+}
+
+.red-back{
+    background-color:#b61910;
+   height:200px
+}
+
+.h4{
+padding:10px
+}
+
+.form-padd{
+    padding:10px
+}
+
+.btnn{
+    display:block;
+    width:90px
+}
+
+.footer{
+    height: 50px;
+    @extend .align
+    padding:18px;
+    font-family:'B Yekan';
+    font-size:14px;
+    background-color: #b61910;
+    color:white;
+}
+
+.link{
+    color:white;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: wheat;
+    text-decoration: none;
+}
