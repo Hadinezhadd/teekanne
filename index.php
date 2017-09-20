@@ -196,6 +196,5 @@ if ($thecmd == 'ثبت') {
             echo '</script>';
         }
         ?>
-        hello body   
     </body>
 </html>
